@@ -107,8 +107,8 @@ const Safes = () => {
                                         <span className='text-sm'>{safe.safeDuration && getFullDateFromSeconds(safe.safeDuration)}</span>
                                     </div>
                                     <div className="ml-2 flex gap-2">
-                                        <SafeAddFunds safeId={index} />
-                                        <ForcedWithdrawFunds safeId={index} />
+                                        {/* <SafeAddFunds safeId={index} /> */}
+                                        {/* <ForcedWithdrawFunds safeId={index} /> */}
                                     </div>
                                 </>
 
@@ -126,7 +126,7 @@ const Safes = () => {
                                                 Unlock
                                             </button>
                                     }
-                                    <WithdrawFunds safeId={index} />
+                                    {/* <WithdrawFunds safeId={index} /> */}
                                 </div>
 
                             }
