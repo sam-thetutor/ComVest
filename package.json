@@ -2,7 +2,6 @@
   "name": "finalbounty",
   "version": "0.1.0",
   "private": true,
-  "homepage":".",
   "dependencies": {
     "@swisstronik/web3-plugin-swisstronik": "^1.5.1",
     "@tanstack/react-query": "^5.56.2",
