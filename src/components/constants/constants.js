@@ -1,0 +1,2 @@
+export const CVTAddress = "0x27E973EFEcb59AE0C14e988C87d653297E7Be6E1" 
+export const ComVestAddress = "0x058F2d5ae2030549D3abE3DAD74d3219c02F125b"
