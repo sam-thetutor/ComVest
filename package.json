@@ -26,6 +26,10 @@
     "web3": "^4.13.0",
     "yup": "^1.4.0"
   },
+  "overrides": {
+    "typescript": "^5.5.4"
+  },
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
